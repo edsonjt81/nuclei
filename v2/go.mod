@@ -97,7 +97,7 @@ require (
 	github.com/bits-and-blooms/bitset v1.3.1 // indirect
 	github.com/bits-and-blooms/bloom/v3 v3.3.1 // indirect
 	github.com/cloudflare/cfssl v1.6.4-0.20221208165709-c5e40da60306 // indirect
-	github.com/cloudflare/circl v1.1.0 // indirect
+	github.com/cloudflare/circl v1.3.3 // indirect
 	github.com/dlclark/regexp2 v1.8.1 // indirect
 	github.com/google/certificate-transparency-go v1.1.4 // indirect
 	github.com/hashicorp/golang-lru/v2 v2.0.1 // indirect
